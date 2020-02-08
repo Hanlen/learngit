@@ -5,3 +5,5 @@ add LICENSE
 lock1
 Creating a new branch is quick.
 change on master branch
+Create a feature branch
+master merge feature
