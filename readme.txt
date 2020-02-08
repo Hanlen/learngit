@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 add LICENSE
 lock1
 Creating a new branch is quick.
+Create a feature branch
